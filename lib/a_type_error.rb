@@ -2,7 +2,6 @@
 
 puts "" + 1.to_s + " is the loneliest number"
 
-sound = 32
+sound = "32"
 
 sound
-
